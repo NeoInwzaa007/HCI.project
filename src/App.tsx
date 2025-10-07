@@ -132,10 +132,10 @@ function App() {
                 />
               </div>
               <div className="leading-tight">
-                <p className="fonts-recons text-white">
+                <p className="text-xs font-recons text-white">
                   Stand
                 </p>
-                <p className="fonts-recons text-white">
+                <p className="text-xs font-recons text-white">
                   Cases
                 </p>
               </div>
